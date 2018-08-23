@@ -12,7 +12,7 @@ class Ideone
 		int Number, i;
 	            Scanner sc = new Scanner(System.in);
 		Number = sc.nextInt();
-		for(i = 1; i <= Number; i++) 
+		for(i =2; i <= Number; i++) 
 		{
 			if(Number%i == 0)
 			{
